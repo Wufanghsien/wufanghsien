@@ -1,6 +1,6 @@
 ## Projects
 
-### KWIC Searcher
+### [KWIC Searcher](https://github.com/wufanghsien/kwic-searcher)
 Keyword-in-Context search tool for corpus linguistics
 
 
